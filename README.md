@@ -1,8 +1,8 @@
-# DPCDrugAndTarget: Improving density peaks clustering algorithm and its application to drug-target data
-DPCDrugAndTarget is a density-based clustering algorithm to drug-target data proposed by Donghua Yu, Maozu Guo, et al. in 2018. See our paper submitted to **BIBM 2018**.
+# Drug-target interaction data cluster analysis based on improving density peaks clustering algorithm
+DPCDrugAndTarget is a density-based clustering algorithm to drug-target data proposed by Donghua Yu, Maozu Guo, et al. in 2018. See our paper submitted to **IDA 2018**.
 
 ### Paper information
- Maozu Guo, Donghua Yu et al. Improving density peaks clustering algorithm and its application to drug-target data. 2018.
+ Maozu Guo, Donghua Yu et al. Drug-target interaction data cluster analysis based on improving density peaks clustering algorithm. 2018.
 
 ### Code and Data
 quick start:
